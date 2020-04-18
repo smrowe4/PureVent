@@ -8,6 +8,9 @@ Design an open source ventilator that can qualify for FDA EAU (Emergency Authori
 - Stepper motors are not powerful enough.  At times the motors will skip steps when pushing on the bag valve mask.
 - Software exists in 3 pieces.  Need to combine them into one master file.
 
+### Electrical Components:
+![PureVent Electrical Layout](/electrical/vent_electrics_small.jpg)
+
 ### Video:
 
 [![](https://img.youtube.com/vi/oJr_kAWkGtY/0.jpg)](https://youtu.be/oJr_kAWkGtY)
